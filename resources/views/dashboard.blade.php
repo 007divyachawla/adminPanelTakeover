@@ -8,8 +8,8 @@
                 <div class="panel-heading">Dashboard</div>
                 <div class="panel-body">
                         <center><h4>Congrats, you solved it! Hope, it was literally ez for you!</h4>
-                    <h3>Flag: {PknUAjIxoDCWI3awXcoMB4nRZaQbfK}</h3>
-                    <p>Let me know if you liked it <a href="https://twitter.com/syed__umar" target="_blank">@syed__umar</a></p></center>
+                    <h3>Flag: {Yes_you_found_the_flag_hacked_the_admin}</h3>
+                    <p>Let me know if you liked it, and for any query drop a message on 007divyachawla@gmail.com </p></center>
                 </div>
             </div>
         </div>
