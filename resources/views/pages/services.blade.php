@@ -4,7 +4,7 @@
     <h1>{{$title}}</h1>
     @if(count($services) > 0)
         <ul class="list-group">
-            <li class="list-group-item">Pentesting?</li>
+            <li class="list-group-item">PTC</li>
         </ul>
     @endif
 @endsection
